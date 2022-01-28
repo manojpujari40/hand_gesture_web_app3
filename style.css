@@ -1,0 +1,33 @@
+body{
+    background-color:darkred;
+}
+.infomation{
+    color:white;
+}
+#camera{
+    border-color:white;
+    border-style: 10px dashed;
+}
+#hand_emotion_name
+{
+  color: white;
+}
+.hand_name
+{
+  font-size: 40px;
+  color:white;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+.hand_emotion_name
+{
+  font-size: 40px;
+}
+#result_folder{
+  margin-left:400px;
+  margin-top:3px;
+}
